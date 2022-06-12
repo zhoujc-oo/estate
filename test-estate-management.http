@@ -1,0 +1,2 @@
+### 社区的分页接口
+GET http://localhost:80/community/1/2
